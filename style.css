@@ -1,0 +1,54 @@
+header{
+    background-color: rgb(219, 146, 180);
+}
+.logo{
+    width: 100px;
+    height: 35px;
+    list-style: none;
+    background-color: transparen;
+    cursor: pointer;
+}
+.contain{
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+
+ 
+}
+ul{
+    list-style: none;
+    display: flex;
+
+}
+li{
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    color: white;
+cursor: pointer;
+}
+.button1{
+    border: 0;
+    background-color: transparent;
+    color: white;
+cursor: pointer;
+}
+.button2{
+    border-radius: 5px;
+    border: 0;
+    background-color: rgb(57, 57, 250);
+    cursor: pointer;
+
+}
+.mr{
+    margin-right: 10px;
+}
+.back{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.border{
+    margin: 0;
+}
